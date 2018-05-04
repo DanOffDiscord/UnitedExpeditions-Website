@@ -1,1 +1,5 @@
-/* Your custom styles */
+.pfp {
+	width: 150px;
+	margin: auto;
+	display: block;
+}
