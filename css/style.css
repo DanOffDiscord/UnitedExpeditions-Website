@@ -1,5 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Heebo');
+
+body {
+	font-family: 'Heebo', sans-serif;
+}
+
 .pfp {
 	width: 150px;
 	margin: auto;
 	display: block;
+	border-radius: 15%;
+}
+
+.box p {
+	color: black !important;
+}
+
+.title, .subtitle, p {
+	color: white !important;
+}
+
+.box h1 {
+	color: black !important;
+}
+
+.box h2 {
+	color: black !important;
+}
+
+.box h3 {
+	color: black !important;
+}
+
+a.button {
+	font-size: 25px;
+}
+
+.logo {
+	width: 250px;
+	border-radius: 15%;
+	border: 2px solid black;
+}
+
+.fab, .fas {
+	color: white;
 }
