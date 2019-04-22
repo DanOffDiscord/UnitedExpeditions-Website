@@ -39,7 +39,7 @@ a.button {
 .logo {
 	width: 250px;
 	border-radius: 15%;
-	border: 2px solid black;
+	border: 1px solid black;
 }
 
 .fab, .fas {
